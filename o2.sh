@@ -32,7 +32,7 @@ build_requires:
   - googlebenchmark
   - cub
   - O2-customization
-source: https://github.com/AliceO2Group/AliceO2
+source: https://github.com/TimoWilken/AliceO2
 env:
   VMCWORKDIR: "$O2_ROOT/share"
 prepend_path:
