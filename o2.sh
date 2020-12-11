@@ -1,6 +1,6 @@
 package: O2
 version: "v1.3.0"
-tag: "v1.3.0"
+tag: testing-O2-20201211
 requires:
   - arrow
   - FairRoot
