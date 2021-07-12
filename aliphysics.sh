@@ -1,6 +1,6 @@
 package: AliPhysics
 version: "%(commit_hash)s"
-tag: master
+tag: v5-09-55c-01_Geant4-1
 requires:
   - AliRoot
   - RooUnfold
